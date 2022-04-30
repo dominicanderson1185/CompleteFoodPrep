@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodPrep</string>
+    <string name="ExperationDate">Experation Date</string>
+    <string name="Food_Amount">Food Amount</string>
+    <string name="Food_Name">Food Name</string>
+    <string name="btn_submit">submit</string>
+    <string name="addGoods">Add Goods</string>
+</resources>
